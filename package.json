@@ -1,0 +1,17 @@
+{
+  "name": "express-static-server",
+  "version": "1.0.0",
+  "description": "Simple static server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Michael Jungo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6"
+  }
+}
